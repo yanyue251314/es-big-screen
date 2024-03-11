@@ -1,7 +1,7 @@
 <template>
 	<div class="es-screen-header">
 	<h1 class="es-screen-logo">
-		<span>ES Big Screen</span>
+		<span>保融销售信息看板</span>
 	</h1>
 		<div class="es-screen-header-title">{{ store.title }}</div>
 		<div class="es-screen-header-right">
